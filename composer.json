@@ -2,6 +2,7 @@
     "require": {
         "hassankhan/config": "0.10.*",
         "symfony/yaml": "~3.0",
-        "catfan/medoo": "~1.0"
+        "catfan/medoo": "~1.0",
+        "ext-pdo_mysql": "~1.0"
     }
 }
